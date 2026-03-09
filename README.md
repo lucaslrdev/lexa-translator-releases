@@ -4,10 +4,16 @@
 
 Translate on-screen text instantly in games, videos, and applications.
 
+---
+
+## ⬇ Download
+
+[![Download Lexa Translator](https://img.shields.io/badge/Download-Lexa%20Translator-blue?style=for-the-badge)](https://github.com/lucaslrdev/lexa-translator-releases/releases/latest)
+
+Download the latest **Windows installer (.exe)** and run it to install Lexa Translator.
+No technical knowledge required.
 
 ## 🚀 Overview
-
-
 
 **Lexa Translator** is a powerful Windows desktop application that captures and translates text directly from your screen in real time.
 
