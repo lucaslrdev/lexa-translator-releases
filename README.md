@@ -52,7 +52,25 @@ Select and translate a specific region of your screen.
 
 - Clean overlay rendered only inside the selected area  
 
-- Perfect for dialogue boxes and UI elements 
+- Perfect for dialogue boxes and UI elements
+
+---
+
+## 🖱️ Cursor Mode
+
+Translate text directly from the target window without breaking your workflow.
+
+Works similarly to Snipping Mode, but operates directly inside the target window 
+
+- Activated via hotkey for fast, uninterrupted usage  
+
+- No overlay rendering, translation is displayed in a clean modal  
+
+- Maintains focus on the original application  
+
+Ideal for keeping immersion in games and continuous workflows  
+
+Perfect for fast-paced gameplay, dialogue reading, and quick lookups  
 
 ---
 ## ⚡ Realtime Mode
@@ -154,6 +172,14 @@ Full-screen capture with translated overlay rendered directly over dialogue.
 | Without Lexa | With Lexa Translator |
 |---|---|
 | ![](assets/sword-of-justice-snipping-mode-jp-no-capture.png) | ![](assets/sword-of-justice-snipping-mode-jp-captured.png) |
+
+---
+
+## 🖱️ Cursor Mode (In-Game)
+
+| Cursor Mode — Example 1 | Cursor Mode — Example 2 |
+|---|---|
+| ![](assets/sword-of-justice-cursor-mode-ch-captured-1.gif) | ![](assets/sword-of-justice-cursor-mode-ch-captured-2.gif) |
 
 ---
 
