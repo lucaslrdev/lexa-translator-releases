@@ -8,10 +8,27 @@ Translate on-screen text instantly in games, videos, and applications.
 
 ## ⬇ Download
 
-[![Download Lexa Translator](https://img.shields.io/badge/Download-Lexa%20Translator-blue?style=for-the-badge)](https://github.com/lucaslrdev/lexa-translator-releases/releases/latest)
+### 🏆 Microsoft Store (Recommended)
 
-Download the latest **Windows installer (.exe)** and run it to install Lexa Translator.
-No technical knowledge required.
+[![Get it from Microsoft](https://img.shields.io/badge/Microsoft%20Store-Download-blue?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/detail/9nw4vgchbsld?hl=neutral&gl=BR&ocid=pdpshare)
+
+Install Lexa Translator with automatic updates and a secure, verified installation.
+
+---
+
+### 🛠 Manual Download (.exe)
+
+[![Download Lexa Translator](https://img.shields.io/badge/Download-Lexa%20Translator-gray?style=for-the-badge)](https://github.com/lucaslrdev/lexa-translator-releases/releases/latest)
+
+Download the latest **Windows installer (.exe)** and install manually.
+
+---
+
+### 🌐 Official Website
+
+[https://lexatranslator.com](https://lexatranslator.com)
+
+Visit the official website to learn more, see updates, and access additional resources.
 
 ## 🚀 Overview
 
